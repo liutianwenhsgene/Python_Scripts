@@ -1,0 +1,7 @@
+﻿rank	left	right
+UNKNOWN	-1	0
+NO_SR	0	1
+SLIGHT	1	5
+MID	5	15
+SERIOUS	15	20
+VERY_SERIOUS	20	R

@@ -1,0 +1,11 @@
+﻿字典名	select key,value...
+dept	SELECT value, label FROM sys_dict where type='base_dept'
+member	SELECT id, name FROM da_member 
+mari	SELECT value,label FROM sys_dict where type='base_marriage'
+hos	SELECT id,name FROM da_hospital
+cancer	SELECT id,name FROM da_cancer
+gen	SELECT value,label FROM sys_dict where type='base_sex'
+cancer_stages	SELECT value,label FROM sys_dict where type='cancer_stages'
+area	SELECT id,name FROM sys_area
+M_H	SELECT id,hospital FROM da_member
+M_D	SELECT id,dept FROM da_member	
